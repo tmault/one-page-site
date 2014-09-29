@@ -7,22 +7,6 @@
     <atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Bad Ideas Broken</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“The ability to destroy your ideas rapidly instead of slowly when the occasion is right is one of the most valuable things. You have to work hard on it. Ask yourself what are the arguments on the other side. It’s bad to have an opinion you’re proud of if you can’t state the arguments for the other side better than your opponents. This is a great mental discipline.” 
-&lt;em&gt;Charlie Munger&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dropbox gives users 30 days of free file version control. I thought edit history was only a premium feature (props to Josh at work for teaching me this!).&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 28 Sep 2014 16:17:21 +0100</pubDate>
-        <link>http://tmault.co.uk/badideas/</link>
-        <guid isPermaLink="true">http://tmault.co.uk/badideas/</guid>
-      </item>
-    
-      <item>
         <title>Taking Doors Off Your House</title>
         <description>&lt;p&gt;I’ve migrated from Wordpress to Jekyll. In fact, I haven’t migrated. I’ve just started again from scratch. &lt;/p&gt;
 
