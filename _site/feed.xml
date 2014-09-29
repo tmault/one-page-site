@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Mault</title>
+    <description>Third Year Geography and Management Student. Works in IT Support.</description>
+    <link>http://tmault.co.uk/</link>
+    <atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Bad Ideas Broken</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“The ability to destroy your ideas rapidly instead of slowly when the occasion is right is one of the most valuable things. You have to work hard on it. Ask yourself what are the arguments on the other side. It’s bad to have an opinion you’re proud of if you can’t state the arguments for the other side better than your opponents. This is a great mental discipline.” 
+&lt;em&gt;Charlie Munger&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dropbox gives users 30 days of free file version control. I thought edit history was only a premium feature (props to Josh at work for teaching me this!).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Sep 2014 16:17:21 +0100</pubDate>
+        <link>http://tmault.co.uk/badideas/</link>
+        <guid isPermaLink="true">http://tmault.co.uk/badideas/</guid>
+      </item>
+    
+      <item>
+        <title>Taking Doors Off Your House</title>
+        <description>&lt;p&gt;I’ve migrated from Wordpress to Jekyll. In fact, I haven’t migrated. I’ve just started again from scratch. &lt;/p&gt;
+
+&lt;p&gt;Running on Jekyll is a little more secure - there are fewer points of entry. Wordpress was a big, bloated behemoth, far too powerful for my needs.&lt;/p&gt;
+
+&lt;p&gt;By using my VPS to serve up a static site, I’m removing several layers of potential failure. &lt;/p&gt;
+
+&lt;p&gt;Wordpress could break. No longer a risk. A plugin could inject malware. No longer a threat. Someone could brute force my administrator login. No longer a threat.&lt;/p&gt;
+
+&lt;p&gt;With a static html site, there’s nothing client-side to hack. The only way for a malicious party to change things is to gain entry through the server itself - and that is a threat that comes with hosting anything on the internet, regardless of if you’re running Wordpress on top of it.&lt;/p&gt;
+
+&lt;p&gt;This is the kind of thought process I’m going through in my life at the moment. It’s a bit like removing doors on your house that you never use. The house is a little bit more secure without them, but it doesn’t decrease your ability to use your house at all.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Sep 2014 14:31:19 +0100</pubDate>
+        <link>http://tmault.co.uk/doors/</link>
+        <guid isPermaLink="true">http://tmault.co.uk/doors/</guid>
+      </item>
+    
+  </channel>
+</rss>
