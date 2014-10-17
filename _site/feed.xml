@@ -7,6 +7,85 @@
     <atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Customer Relationship Management (Bose, 2002)</title>
+        <description>&lt;h1 id=&quot;customer-relationship-management-key-components-for-it-success&quot;&gt;Customer Relationship Management: Key Components for IT Success&lt;/h1&gt;
+&lt;p&gt;## What is CRM?&lt;/p&gt;
+
+&lt;p&gt;The integration of technology &lt;em&gt;and&lt;/em&gt; business processes, used in a manner that satisfies the customer in any given interaction.&lt;/p&gt;
+
+&lt;p&gt;CRM is about acquiring, analysing and using knowledge about customers in order to sell more goods or services and to do so more efficiently.&lt;/p&gt;
+
+&lt;p&gt;In the long term, a process of continual analysis and refinement of the firms product mix will enhance the lifetime value of the firm to the customer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CRM may involve fundamental process changes within the organisation; simply providing technology is usually inadequate (Page 93)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-do-we-need-crm&quot;&gt;Why Do We Need CRM?&lt;/h2&gt;
+&lt;p&gt;The world has changed. In 1850, it was good enough to produce a product. In 1900, it was about sales. In the 1950s, market(ing) orientation was the predominant mentality. In the new millennium, the prominent force is Customer-Centric Orientation.&lt;/p&gt;
+
+&lt;p&gt;This is &lt;em&gt;enabled&lt;/em&gt; by technology. Fast, low-cost, networked environments have enabled mass customisation and personalisation.&lt;/p&gt;
+
+&lt;p&gt;Berger and Bechwati (2000) summarise this change as a change in view from business as a series of discrete transactions, to the development and maintenance of long-term relationships. The Customers Lifetime Value (CLV) in the guiding principle of this age. There has been a fundamental shift; from managing the market segment, to managing the specific customer, and his or her individual preferences.&lt;/p&gt;
+
+&lt;h2 id=&quot;crm-development&quot;&gt;CRM Development&lt;/h2&gt;
+&lt;p&gt;CRM is deployed just like any other new technology (Planning, research, system analysis, design, construction, implementation, maintenance/documentation and adaptation). However, it’s not very effective if it’s just a change in technology. In order to be effective it requires business processes and ethos’ to change too.&lt;/p&gt;
+
+&lt;p&gt;Wells &lt;em&gt;et al.&lt;/em&gt; (1999) laid out four key elements for successfully engineered one-to-one interacting IT Systems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify the means of collecting customer information. Where does data flow in to the organisation? Where do customers interact with the company? Where are the contact points? (E.g. tills, websites, phone lines)&lt;/li&gt;
+  &lt;li&gt;Re-design of customer data. First of all, you have to integrate the customer data across the entire firm. No more data silos for each department! Next, you’ll need to expand the customer data profile. Enterprise Resource Planning (ERP) Systems will need somewhere to put this new data! Finally you’ll have to integrate legacy systems, usually requiring the use of middleware to bridge the gap. &lt;/li&gt;
+  &lt;li&gt;IT-enabled interaction. There two principal ways for a CRM system to interact with a customer. Either directly (automated) or through an intermediary, such as an employee in a telephone call centre (IT-enabled)&lt;/li&gt;
+  &lt;li&gt;Transmission of data &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How will management at all levels use this information to improve the quality of their decisions? (Page 91)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;consider-staging-the-project&quot;&gt;Consider Staging The Project&lt;/h2&gt;
+&lt;p&gt;These systems don’t have to implemented all at once. It can be useful to modularise them. There’s a host of technologies and infrastructure investments needed to support a CRM system. Typically, you’ll need a data warehouse, data mining capabilities and network upgrades. Certain business may require integrated phone systems (Voice Over Internet Protocol). There’s a lot of expertise and training required to operate such systems, so deploying them sequentially may be more effective in the long-term than radically changing the business overnight.&lt;/p&gt;
+
+&lt;h2 id=&quot;note-common-threats-to-the-implementation-of-any-new-system&quot;&gt;Note Common Threats To The Implementation of Any New System&lt;/h2&gt;
+&lt;p&gt;Carlsson and Walden (2000) characterise these as ‘people problems’, including, but not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;People not understanding the new systems, and relying on old intuitions and/or experience &lt;/li&gt;
+  &lt;li&gt;People being frustrated by theories and ethos changes that they do not fully understand&lt;/li&gt;
+  &lt;li&gt;People circumnavigating new systems to skip process&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Training. It seems bland, but it is vitally important. Without it, the output of CRM systems can be damaging to business productivity. As Feelders &lt;em&gt;et al.&lt;/em&gt; (2000) noted, “successful data mining projects require the involvement of &lt;strong&gt;expertise in data mining&lt;/strong&gt;, &lt;strong&gt;company data&lt;/strong&gt;, and the &lt;strong&gt;subject area concerned&lt;/strong&gt;” - this is reasonably rare and highly valuable combination to come across. Without it, the output of Customer Centric Intelligence (CCI) applications may be wildly misinterpreted.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-will-benefit-the-most-from-crm&quot;&gt;Who Will Benefit The Most From CRM?&lt;/h2&gt;
+&lt;p&gt;Firms with these characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accumulate lots of data on each customers buying patterns&lt;/li&gt;
+  &lt;li&gt;Significant customer life value&lt;/li&gt;
+  &lt;li&gt;Low customer churn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;crm-over-the-next-decade&quot;&gt;CRM Over The Next Decade&lt;/h2&gt;
+&lt;p&gt;Papazoglou &lt;em&gt;et al.&lt;/em&gt; (2000) posits that the power play of the next decade will be found in business alliances. Combining data sets across the enterprise value chain should, in theory, benefit all involved parties. Ideally, such alliances will create synergistic benefits to the whole industry.&lt;/p&gt;
+
+&lt;p&gt;Integration of systems. At the moment, there’s no monopoly or best-practice implementation of CRM system. Indeed, there isn’t such a status for any constituent component. As the decade progresses, de facto standards for data mining, data warehousing etc. will arise. Off the back of this, CRM system will become easier to implement. Reducing the barriers to entry of CRM systems mean more companies will have them. Soon, they will be a threshold for competition - not a source of competitive advantage. Again, Papazoglou’s recommendation to extend CRM systems across business partners combats this erosion of competitive advantage.&lt;/p&gt;
+
+&lt;p&gt;Bose notes firms my be wary of short-term focus. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CRM is an expensive, time-consuming and complex proposition.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, the firms that can satisfy the needs of each particular customer and the firms that are poised to perform successfully and lead the future.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 14:31:19 +0100</pubDate>
+        <link>http://tmault.co.uk/bose_on_crm/</link>
+        <guid isPermaLink="true">http://tmault.co.uk/bose_on_crm/</guid>
+      </item>
+    
+      <item>
         <title>Taking Doors Off Your House</title>
         <description>&lt;p&gt;I’ve migrated from Wordpress to Jekyll. In fact, I haven’t migrated. I’ve just started again from scratch. &lt;/p&gt;
 
