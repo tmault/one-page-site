@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      Adopting CRM Technology (Xu *et al.*, 2002)
+title:      Adopting CRM Technology (Xu et al., 2002)
 date:       2014-10-18 13:31:19
 summary:    Implementing CRM technology is complex and requires a fundamental change in business process.
 categories: notes
 permalink: /adopting-crm/
 ---
 # Adopting CRM Technology (Xu, Yen, Lin and Chou, 2002)
+
 ## Context for Implementing CRM
 > Deregulation, diversification and globalisation have stimulated a dramatic rise in competition - and these unforgiving marketplace realities have forced companies to switch from a product-centric approach to a customer-centric approach (Page 451). 
 
@@ -20,6 +21,7 @@ In its most basic form CRM integrates sales, customer service and marketing. Up-
 > The goal is to improve the customer’s experience of how they interact with us, which hopefully, in turn, creates more satisfaction, which yields more loyalty, which, ideally, yields more sales of products and services.
 
 ## Complexities of CRM
+
 ### Technical 
 The analytical function of CRM is often neglected. The return on customer interaction will be maximised when domain-specific analytical applications are deployed on data warehouses filled with high quality data. Only then will the company hold a comprehensive view of their customers on a case by case basis.
 
