@@ -7,10 +7,13 @@
     <atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Adopting CRM Technology (Xu *et al.*, 2002)</title>
+        <title>Adopting CRM Technology (Xu et al., 2002)</title>
         <description>&lt;h1 id=&quot;adopting-crm-technology-xu-yen-lin-and-chou-2002&quot;&gt;Adopting CRM Technology (Xu, Yen, Lin and Chou, 2002)&lt;/h1&gt;
-&lt;p&gt;## Context for Implementing CRM
-&amp;gt; Deregulation, diversification and globalisation have stimulated a dramatic rise in competition - and these unforgiving marketplace realities have forced companies to switch from a product-centric approach to a customer-centric approach (Page 451). &lt;/p&gt;
+
+&lt;h2 id=&quot;context-for-implementing-crm&quot;&gt;Context for Implementing CRM&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Deregulation, diversification and globalisation have stimulated a dramatic rise in competition - and these unforgiving marketplace realities have forced companies to switch from a product-centric approach to a customer-centric approach (Page 451). &lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;CRM provides systems, but the effective implementation of CRM systems cannot stop there. Whilst systems may support continuous interactions, fast feedback, adaptation and proactivity, they will not become part of regular practice until business processes are formally changed. As such, CRM should be viewed as a corporate strategy. It needs the backing of all employees in the organisation, and is ideally launched as a grass-routes movement - one to which every employee can contribute ideas and feedback.&lt;/p&gt;
 
@@ -20,12 +23,13 @@
 &lt;p&gt;In its most basic form CRM integrates sales, customer service and marketing. Up-to-date information and modelling can assist in the creation of effective cross-selling campaigns. A more thorough implementation of CRM will include data from all functions that touch customers.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The goal is to improve the customer’s experience of how they interact with us, which hopefully, in turn, creates more satisfaction, which yields more loyalty, which, ideally, yields more sales of products and services.&lt;/p&gt;
+  &lt;p&gt;The goal is to improve the customer’s experience of how they interact with us, which hopefully, in turn, creates more satisfaction, which yields more loyalty, which, ideally, yields more sales of products and services (Page 442).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;complexities-of-crm&quot;&gt;Complexities of CRM&lt;/h2&gt;
-&lt;p&gt;### Technical 
-The analytical function of CRM is often neglected. The return on customer interaction will be maximised when domain-specific analytical applications are deployed on data warehouses filled with high quality data. Only then will the company hold a comprehensive view of their customers on a case by case basis.&lt;/p&gt;
+
+&lt;h3 id=&quot;technical&quot;&gt;Technical&lt;/h3&gt;
+&lt;p&gt;The analytical function of CRM is often neglected. The return on customer interaction will be maximised when domain-specific analytical applications are deployed on data warehouses filled with high quality data. Only then will the company hold a comprehensive view of their customers on a case by case basis.&lt;/p&gt;
 
 &lt;h3 id=&quot;personnel&quot;&gt;Personnel&lt;/h3&gt;
 &lt;p&gt;Sweat (2001) notes that senior management must be aware that CRM is a long-term strategy that is unlikely to have an immediate payoff.&lt;/p&gt;

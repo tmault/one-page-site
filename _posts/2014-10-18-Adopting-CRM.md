@@ -18,7 +18,7 @@ Customer satisfaction is enabled, in part, by the effective and timely allocatio
 
 In its most basic form CRM integrates sales, customer service and marketing. Up-to-date information and modelling can assist in the creation of effective cross-selling campaigns. A more thorough implementation of CRM will include data from all functions that touch customers.
 
-> The goal is to improve the customer’s experience of how they interact with us, which hopefully, in turn, creates more satisfaction, which yields more loyalty, which, ideally, yields more sales of products and services.
+> The goal is to improve the customer’s experience of how they interact with us, which hopefully, in turn, creates more satisfaction, which yields more loyalty, which, ideally, yields more sales of products and services (Page 442).
 
 ## Complexities of CRM
 
