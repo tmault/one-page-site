@@ -19,4 +19,4 @@ Watermark and redact information from ID scans before you send them off to third
 
 Don’t use things that aren’t fit for purpose. Don’t use things when your interests don’t align with the vendor. E.g. Backups: pay per GB and use a backup-specific service - not generic (consumer) cloud storage.
 
-Make a list of the applications that you use on your computer. This way, ~~if~~ *when* your computer breaks, you will be able to back up to speed much quicker. Change this file every time you install a new program.
+Make a list of the applications that you use on your computer. This way, <del>if</del> *when* your computer breaks, you will be able to back up to speed much quicker. Change this file every time you install a new program.
