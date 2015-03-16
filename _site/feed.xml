@@ -7,20 +7,57 @@
     <atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Technological Bypass</title>
+        <description>&lt;p&gt;Problem: There’s a HDMI cable running between my laptop and living room tv whenever I want to stream movies or shows.&lt;/p&gt;
+
+&lt;p&gt;There’s plenty of options available, but there’s two that seem interesting:&lt;/p&gt;
+
+&lt;p&gt;Solution 1: Some form of wireless broadcasting from my laptop to the screen.&lt;/p&gt;
+
+&lt;p&gt;Solution 2: Controlling a cheap device connected to my tv that can stream directly from the internet.&lt;/p&gt;
+
+&lt;p&gt;Solution 1 probably involves messing around with Codecs, Drivers, Streaming, Compression, Encryption and Networking. All complex stuff. Solution 2 needs a little piece of standard hardware, running a small server function to communicate with the internet and local devices.&lt;/p&gt;
+
+&lt;p&gt;Which of these has a bigger research cost to prototype and develop? &lt;/p&gt;
+
+&lt;p&gt;Moore’s Law is compacting our devices, down to the point that streaming 1080P and beyond can be handled by a fanless chip on a stick.&lt;/p&gt;
+
+&lt;p&gt;Creating a whole new encoding method, drivers and hardware to wirelessly use a television as a second screen for a laptop is a whole different beast. There’s so many limits to fight. First of all, the local network is streaming high quality content to the users laptop. Then, you’re trying to relay that content from the laptop, back to the router and into the fancy piece of kit plugged in to the tv. This is a nightmare for I/O and bandwidth.&lt;/p&gt;
+
+&lt;p&gt;It’s much simpler to have the laptop tell the chip on a stick (a) what video stream and (b) when to do it. That’s lightweight. Much simpler, much less intensive.&lt;/p&gt;
+
+&lt;p&gt;There’s something intriguing about a chip on a stick (&lt;a href=&quot;https://www.google.co.uk/chrome/devices/chromecast/&quot;&gt;ChromeCast&lt;/a&gt;) bypassing problems that are complicated (&lt;a href=&quot;https://airtame.com/&quot;&gt;Check out Airtime&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Part of this comes from using a process like &lt;a href=&quot;http://en.wikipedia.org/wiki/5_Whys&quot;&gt;5 Why’s&lt;/a&gt; to figure out what pain point you’re actually trying to solve. Don’t take the first-order why. Figure what you’re actually trying to do. &lt;em&gt;I.e. Control a big screen from the comfort of your sofa&lt;/em&gt;. This is not the same task as &lt;em&gt;develop the capability to mount your television as a second monitor&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Focus on the use cases you’re solving - because the problems that you can technologically bypass are limited by the needs of said group.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Mar 2015 13:31:19 +0000</pubDate>
+        <link>http://tmault.co.uk/techbypass/</link>
+        <guid isPermaLink="true">http://tmault.co.uk/techbypass/</guid>
+      </item>
+    
+      <item>
         <title>Smart Things</title>
         <description>&lt;p&gt;If you buy twenty pairs of identical socks, you’ll never have to pair socks again. For the rest of your life. Never. Again.&lt;/p&gt;
 
-&lt;p&gt;It’s probably not a good idea to buy that ‘fashionable’ loud polo shirt. Or to pay through the roof for a little emblem on your chest. Nobody ever knocked well fitting clothes in solid colours. They minimise the chance of looking silly in photos a decade from now.&lt;/p&gt;
+&lt;p&gt;It’s probably not a good idea to buy that ‘premium’ (loud) polo shirt. Or to pay through the roof for a little emblem on your chest. Nobody ever knocked well fitting clothes in solid colours. They minimise the chance of looking silly in photos a decade from now.&lt;/p&gt;
 
 &lt;p&gt;Backup your computer off-site.&lt;/p&gt;
 
-&lt;p&gt;If it is worth more than £400, you should probably check it will be covered by your contents/possessions insurance.&lt;/p&gt;
+&lt;p&gt;If you buy something worth more than £400, you should probably check it will be covered by your contents/possessions insurance.&lt;/p&gt;
 
 &lt;p&gt;Watermark and redact information from ID scans before you send them off to third parties. If they are plastered with the date and purpose of identification, they’re going to be of limited use if they fall into the wrong hands.&lt;/p&gt;
 
 &lt;p&gt;Don’t use things that aren’t fit for purpose. Don’t use things when your interests don’t align with the vendor. E.g. Backups: pay per GB and use a backup-specific service - not generic (consumer) cloud storage.&lt;/p&gt;
 
-&lt;p&gt;Make a list of the applications that you use on your computer. This way, &lt;del&gt;if&lt;/del&gt; &lt;em&gt;when&lt;/em&gt; your computer breaks, you will be able to back up to speed much quicker. Change this file every time you install a new program.&lt;/p&gt;
+&lt;p&gt;Make a list of the applications that you use on your computer. This way, &lt;del&gt;if&lt;/del&gt; &lt;em&gt;when&lt;/em&gt; your computer breaks, you will be able to get back up to speed much quicker. Update this file every time you install a new program.&lt;/p&gt;
+
+&lt;p&gt;Use open file formats. Don’t use proprietary things, because ten years from now, you’ll be somewhere between very sad and inhospitably angry at your past self when you can’t get at a given file. Using stuff like .txt and .md also tends to be a bit more lightweight, which reduces your digital overhead.&lt;/p&gt;
+
+&lt;p&gt;Do your laundry when the basket is two thirds full. It’s way less stressful when you just have to pop one load in. It beats the alternative of letting it pile up until you run out of clothes and &lt;em&gt;have&lt;/em&gt; to do it, which suddenly has dwarfed into a task that takes all day. Do it on the fly, do it before you need to.&lt;/p&gt;
+
+&lt;p&gt;That person that inspires you? They’re human too. Thanks to Twitter, Meerkat and Email, they’re way more reachable than you think. Be genuine and the world unfolds.&lt;/p&gt;
 </description>
         <pubDate>Sat, 14 Mar 2015 13:31:19 +0000</pubDate>
         <link>http://tmault.co.uk/smart/</link>
