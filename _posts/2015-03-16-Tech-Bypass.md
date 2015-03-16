@@ -25,7 +25,7 @@ Creating a whole new encoding method, drivers and hardware to wirelessly use a t
 
 It’s much simpler to have the laptop tell the chip on a stick (a) what video stream and (b) when to do it. That’s lightweight. Much simpler, much less intensive.
 
-There’s something intriguing about a chip on a stick ([ChromeCast](https://www.google.co.uk/chrome/devices/chromecast/)) bypassing problems that are complicated ([Check out Airtime](https://airtame.com/)).
+There’s something intriguing about a chip on a stick ([ChromeCast](https://www.google.co.uk/chrome/devices/chromecast/)) bypassing problems that are complicated ([Check out Airtame](https://airtame.com/)).
 
 Part of this comes from using a process like [5 Why’s](http://en.wikipedia.org/wiki/5_Whys) to figure out what pain point you’re actually trying to solve. Don’t take the first-order why. Figure what you’re actually trying to do. *I.e. Control a big screen from the comfort of your sofa*. This is not the same task as *develop the capability to mount your television as a second monitor*.
 
