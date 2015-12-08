@@ -1,83 +1,43 @@
-<!doctype html>
-<html lang="en" class="no-js">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700|Merriweather:400,700' rel='stylesheet' type='text/css'>
-
-	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-  	
-	<title>Thomas Mault</title>
-</head>
-<body>
-	<main>
-		<h1>Thomas Mault</h1>
-
-		<p>Geography and Management Finalist at Loughborough University, UK.</p>
-	</main>
-
-	<a href="#cd-nav" class="cd-nav-trigger">Menu 
-		<span class="cd-nav-icon"></span>
-
-		<svg x="0px" y="0px" width="54px" height="54px" viewBox="0 0 54 54">
-			<circle fill="transparent" stroke="#656e79" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
-		</svg>
-	</a>
-	
-	<div id="cd-nav" class="cd-nav">
-		<div class="cd-navigation-wrapper">
-			<div class="cd-half-block">
+---
+layout: default
+home: true
+cover-image: sky.jpg
+---
 
 
-				<nav>
-					<ul class="cd-primary-nav">
-						<li><a href="https://twitter.com/tmault">Twitter</a></li>
-						<li><a href="http://www.last.fm/user/tmault">Last.fm</a></li>
-						<li><a href="https://docs.google.com/document/d/1Cfw_tyHZfoB21DBKHulUeL7JgSRpsthK_U_-Ya6EWI4/pub">Learning List</a></li>
-					</ul>
-				</nav>
-			</div><!-- .cd-half-block -->
-			
-			<div class="cd-half-block">
-				<address>
-					<ul class="cd-contact-info">
-						<li><script type="text/javascript" language="javascript">
-<!--
-// Email obfuscator script 2.1 by Tim Williams, University of Arizona
-// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-// This code is freeware provided these four comment lines remain intact
-// A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "SvdjVA@SjVhUS.Td.h1"
-  key = "6myYdhWqFTl1ntNsVr8Dj0IXvEeCPUQHSxA35bZLwM9f4pzouRKic7kg2JGaBO"
-  shift=coded.length
-  link=""
-  for (i=0; i<coded.length; i++) {
-    if (key.indexOf(coded.charAt(i))==-1) {
-      ltr = coded.charAt(i)
-      link += (ltr)
-    }
-    else {     
-      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-      link += (key.charAt(ltr))
-    }
-  }
-document.write("<a href='mailto:"+link+"'>"+link+"</a>")
-}
-//-->
-</script><noscript>Sorry, you need Javascript on to email me.</noscript>
-</li>
-						<li>
-							<span>London, UK</span>
-						</li>
-					</ul>
-				</address>
-			</div> <!-- .cd-half-block -->
-		</div> <!-- .cd-navigation-wrapper -->
-	</div> <!-- .cd-nav -->
-<script src="js/jquery-2.1.1.js"></script>
-<script src="js/main.js"></script> <!-- Resource jQuery -->
-</body>
-</html>
+
+{% for post in paginator.posts %}
+
+{% assign minutes = post.content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+  {% assign read-time = site.var_less_than_a_minute_read %}
+{% else %}
+  {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
+{% endif %}
+
+  <article>
+    <span class="meta">
+      {% if site.display-author-front-page %}
+        {% if post.author.name %}
+          {{ post.author.name }} •
+        {% else %}
+          {% if site.author.name %}
+            {{ site.author.name }} •
+          {% endif %}
+        {% endif %}
+      {% endif %}
+      {{ post.date | date: site.date_format }} • {{ read-time }}</span>
+  	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+      <p>
+      {% if post.summary %}
+        {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
+
+      {% endif %}
+      </p>
+
+  </article>
+{% endfor %}
+
+{% if paginator.previous_page or paginator.next_page %}
+  {% include pagination.html %}
+{% endif %}

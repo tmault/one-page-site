@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Tom Mault</title>
+		<description>{&quot;meta&quot;=&gt;&quot;Graduate Consultant at Atos. Currently studying the Udacity Intro to Programming Nanodegree, after studying Geography and Management at Loughborough University.&quot;, &quot;subtitle&quot;=&gt;&quot;Graduate Consultant at Atos. Currently studying the Udacity Intro to Programming Nanodegree, after graduating with a degree in Geography and Management from Loughborough University in 2015.&quot;}</description>
+		<link>http://tmault.co.uk</link>
+		<atom:link href="http://tmault.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Rosenberg on Reputation</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;blockquote&gt;
+  &lt;p&gt;The sum of it is that no dealer, curator, buyer, or critic, or any existing combination of these, can be depended on to produce a reputation that is more than a momentary flurry.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Harold Rosenberg was a prominent art critic, writing for the New Yorker in the 60s. I found this quote in Old Masters and Young Geniuses. It’s from 1965, but it still seems valid today.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+				<link>http://tmault.co.uk/2015/12/07/rosenberg/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2015/12/07/rosenberg/</guid>
+			</item>
+		
+			<item>
+				<title>How The Economic Machine Works</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;In this video, Ray Dalio lays out a simple framework for thinking about the economy. In his eyes, it is prudent to overlay the short-term debt cycle on the long-term debt cycle. Once you’ve done this, take the two cycles and place them on the (generally less volatile) productivity growth line.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PHe0bXAIuk0?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Tue, 04 Aug 2015 00:00:00 +0100</pubDate>
+				<link>http://tmault.co.uk/2015/08/04/How-The-Economic-Machine-Works/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2015/08/04/How-The-Economic-Machine-Works/</guid>
+			</item>
+		
+			<item>
+				<title>Links (July 2015)</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;Tony Fadell (Ex-Apple, Nest Co-Founder) proposes we think in terms of the thoughtful home, not the internet of things. This extends to ideas like the thoughtful car (TESLA) and the thoughtful city. Technological innovation is meant to offer &lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2015/07/the-technology-ratchet.html&quot;&gt;useful improvement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nobody is interested in a fridge that can send text messages, but consumers are ready to adopt boring, seamless and secure technologies (&lt;a href=&quot;http://www.icontrol.com/wp-content/uploads/2015/06/Smart_Home_Report_2015.pdf&quot;&gt;PDF Report&lt;/a&gt;). Security cameras and learning thermostats seem to be trusted at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tapingo.com/&quot;&gt;Tapingo&lt;/a&gt; think you can get your coffee or lunch without waiting. Order on your phone, pay with Touch ID, see it’ll be ready in five minutes, then walk into the store and drink. Paid for in advance, no queues, no wasted time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/whats-the-point-of-education-if-google-can-tell-us-anything-44441&quot;&gt;Ibrar Bhatt&lt;/a&gt; notes the importance of the ability to curate and sift through information in a world where any fact is instantly retrievable. Will AI be able to amplify the ability of humans to do this in the future?&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Jul 2015 00:00:00 +0100</pubDate>
+				<link>http://tmault.co.uk/2015/07/24/Links-July-2015/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2015/07/24/Links-July-2015/</guid>
+			</item>
+		
+			<item>
+				<title>iCloud Photos Needs A Local Storage Limit</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;I like iCloud Photos and pay for extra storage.&lt;/p&gt;
+
+&lt;p&gt;It is convenient to have my photos sync between phone and mac without any thought. Optimise iPhone storage is missing one crucial feature: there should be a slider that limits how much local storage space will be taken up by local photo caches.&lt;/p&gt;
+
+&lt;p&gt;The way this feature is currently set up makes it impossible to control how much space photos take up on your mobile device. Sure, the feature stores less than my whole photo library on my phone. You could call that “optimised” — in a simple world. Now that I never sync my phone to my laptop (over-the-air-updates are wonderful) I find my phone is constantly running out of storage space.&lt;/p&gt;
+
+&lt;p&gt;Hopefully the next iOS update includes a slider that limits the amount of storage that iCloud Photo Library takes up. 10% of the device. 2GB. 40GB. Always leave 20% of the phone’s storage free. There’s plenty of ways to do it, but Optimise iPhone Storage is too vague.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Optimise iPhone Storage and never store more than XGB of photos on this device should exist&lt;/strong&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 01 May 2015 00:00:00 +0100</pubDate>
+				<link>http://tmault.co.uk/2015/05/01/iCloud-Photos/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2015/05/01/iCloud-Photos/</guid>
+			</item>
+		
+			<item>
+				<title>Smart Things</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;There are a couple of things I wished someone had told me earlier in life. I’ve listed a few of them below.&lt;/p&gt;
+
+&lt;p&gt;If you buy twenty pairs of identical socks, you’ll never have to pair socks again. For the rest of your life. Never. Again.&lt;/p&gt;
+
+&lt;p&gt;It’s probably not a good idea to buy that ‘premium’ (loud) polo shirt. Or to pay through the roof for a little emblem on your chest. Nobody ever knocked well fitting clothes in solid colours. They minimise the chance of looking silly in photos a decade from now.&lt;/p&gt;
+
+&lt;p&gt;Backup your computer off-site.&lt;/p&gt;
+
+&lt;p&gt;If you buy something worth more than £400, you should probably check it will be covered by your contents/possessions insurance.&lt;/p&gt;
+
+&lt;p&gt;Watermark and redact information from ID scans before you send them off to third parties. If they are plastered with the date and purpose of identification, they’re going to be of limited use if they fall into the wrong hands.&lt;/p&gt;
+
+&lt;p&gt;Don’t use things that aren’t fit for purpose. Don’t use things when your interests don’t align with the vendor. E.g. Backups: pay per GB and use a backup-specific service – not generic (consumer) cloud storage.&lt;/p&gt;
+
+&lt;p&gt;Make a list of the applications that you use on your computer. This way, if when your computer breaks, you will be able to get back up to speed much quicker. Update this file every time you install a new program.&lt;/p&gt;
+
+&lt;p&gt;Use open file formats. Don’t use proprietary things, because ten years from now, you’ll be somewhere between very sad and inhospitably angry at your past self when you can’t get at a given file. Using stuff like .txt and .md also tends to be a bit more lightweight, which reduces your digital overhead.&lt;/p&gt;
+
+&lt;p&gt;Do your laundry when the basket is two thirds full. It’s way less stressful when you just have to pop one load in. It beats the alternative of letting it pile up until you run out of clothes and have to do it, which suddenly has dwarfed into a task that takes all day. Do it on the fly, do it before you need to.&lt;/p&gt;
+
+&lt;p&gt;That person that inspires you? They’re human too. Thanks to Twitter, Meerkat and Email, they’re way more reachable than you think. Be genuine and the world unfolds.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 04 Apr 2015 00:00:00 +0100</pubDate>
+				<link>http://tmault.co.uk/2015/04/04/Smart-Things/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2015/04/04/Smart-Things/</guid>
+			</item>
+		
+			<item>
+				<title>CRM Notes</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Tom Mault&quot;, &quot;email&quot;=&gt;&quot;thomas@tmault.co.uk&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;h2 id=&quot;what-is-crm&quot;&gt;What is CRM?&lt;/h2&gt;
+&lt;p&gt;The integration of technology and business processes, used in a manner that satisfies the customer in any given interaction. CRM is about acquiring, analysing and using knowledge about customers in order to sell more goods or services and to do so more efficiently. In the long term, a process of continual analysis and refinement of the firms product mix will enhance the lifetime value of the firm to the customer. CRM may involve fundamental process changes within the organisation; simply providing technology is usually inadequate (Page 93).&lt;/p&gt;
+
+&lt;h2 id=&quot;why-do-we-need-crm&quot;&gt;Why Do We Need CRM?&lt;/h2&gt;
+&lt;p&gt;The world has changed. In 1850, it was good enough to produce a product. In 1900, it was about sales. In the 1950s, market(ing) orientation was the predominant mentality. In the new millennium, the prominent force is Customer-Centric Orientation. This is enabled by technology. Fast, low-cost, networked environments have enabled mass customisation and personalisation. Berger and Bechwati (2000) summarise this change as a change in view from business as a series of discrete transactions, to the development and maintenance of long-term relationships. The Customers Lifetime Value (CLV) in the guiding principle of this age. There has been a fundamental shift; from managing the market segment, to managing the specific customer, and his or her individual preferences.&lt;/p&gt;
+
+&lt;h2 id=&quot;crm-development&quot;&gt;CRM Development&lt;/h2&gt;
+&lt;p&gt;CRM is deployed just like any other new technology (Planning, research, system analysis, design, construction, implementation, maintenance/documentation and adaptation). However, it’s not very effective if it’s just a change in technology. In order to be effective it requires business processes and ethos’ to change too. Wells et al. (1999) laid out four key elements for successfully engineered one-to-one interacting IT Systems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify the means of collecting customer information. Where does data flow in to the organisation? Where do customers interact with the company? Where are the contact points? (E.g. tills, websites, phone lines)&lt;/li&gt;
+  &lt;li&gt;Re-design of customer data. First of all, you have to integrate the customer data across the entire firm. No more data silos for each department! Next, you’ll need to expand the customer data profile. Enterprise Resource Planning (ERP) Systems will need somewhere to put this new data! Finally you’ll have to integrate legacy systems, usually requiring the use of middleware to bridge the gap.&lt;/li&gt;
+  &lt;li&gt;IT-enabled interaction. There two principal ways for a CRM system to interact with a customer. Either directly (automated) or through an intermediary, such as an employee in a telephone call centre (IT-enabled)&lt;/li&gt;
+  &lt;li&gt;Transmission of data&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;How will management at all levels use this information to improve the quality of their decisions (Page 91)?&lt;/p&gt;
+
+&lt;h2 id=&quot;consider-staging-the-project&quot;&gt;Consider Staging The Project&lt;/h2&gt;
+&lt;p&gt;These systems don’t have to implemented all at once. It can be useful to modularise them. There’s a host of technologies and infrastructure investments needed to support a CRM system. &lt;br /&gt;
+Typically, you’ll need a data warehouse, data mining capabilities and network upgrades. Certain business may require integrated phone systems (Voice Over Internet Protocol). There’s a lot of expertise and training required to operate such systems, so deploying them sequentially may be more effective in the long-term than radically changing the business overnight.&lt;br /&gt;
+Note Common Threats To The Implementation of Any New System&lt;/p&gt;
+
+&lt;p&gt;Carlsson and Walden (2000) characterise these as ‘people problems’, including, but not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;People not understanding the new systems, and relying on old intuitions and/or experience&lt;/li&gt;
+  &lt;li&gt;People being frustrated by theories and ethos changes that they do not fully understand&lt;/li&gt;
+  &lt;li&gt;People circumnavigating new systems to skip process&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Training. It seems bland, but it is vitally important. Without it, the output of CRM systems can be damaging to business productivity. As Feelders et al. (2000) noted, “successful data mining projects require the involvement of expertise in data mining, company data, and the subject area concerned” - this is reasonably rare and highly valuable combination to come across. Without it, the output of Customer Centric Intelligence (CCI) applications may be wildly misinterpreted.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-will-benefit-the-most-from-crm&quot;&gt;Who Will Benefit The Most From CRM?&lt;/h2&gt;
+&lt;p&gt;Firms with these characteristics:&lt;br /&gt;
+* Accumulate lots of data on each customer’s buying patterns&lt;br /&gt;
+* Significant customer life value&lt;br /&gt;
+* Low customer churn&lt;br /&gt;
+* CRM Over The Next Decade&lt;/p&gt;
+
+&lt;p&gt;Papazoglou et al. (2000) posits that the power play of the next decade will be found in business alliances. Combining data sets across the enterprise value chain should, in theory, benefit all involved parties. Ideally, such alliances will create synergistic benefits to the whole industry. Integration of systems. At the moment, there’s no monopoly or best-practice implementation of CRM system. Indeed, there isn’t such a status for any constituent component. As the decade progresses, de facto standards for data mining, data warehousing etc. will arise. Off the back of this, CRM system will become easier to implement. Reducing the barriers to entry of CRM systems mean more companies will have them. Soon, they will be a threshold for competition - not a source of competitive advantage. Again, Papazoglou’s recommendation to extend CRM systems across business partners combats this erosion of competitive advantage. Bose notes firms my be wary of short-term focus. CRM is an expensive, time-consuming and complex proposition. However, the firms that can satisfy the needs of each particular customer and the firms that are poised to perform successfully and lead the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.emeraldinsight.com/doi/full/10.1108/02635570210419636&quot;&gt;Link to Purchase Full Copy of Paper&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 14 Oct 2014 00:00:00 +0100</pubDate>
+				<link>http://tmault.co.uk/2014/10/14/CRM-Notes/</link>
+				<guid isPermaLink="true">http://tmault.co.uk/2014/10/14/CRM-Notes/</guid>
+			</item>
+		
+	</channel>
+</rss>
